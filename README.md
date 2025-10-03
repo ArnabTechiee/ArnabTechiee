@@ -12,19 +12,34 @@ I'm actively seeking opportunities to collaborate on **real-time industry projec
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO"/>
+  <img src="https://img.shields.io/badge/Mediapipe-007F7F?style=for-the-badge&logo=google&logoColor=white" alt="Mediapipe"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Deep Learning-B233FF?style=for-the-badge" alt="Deep Learning"/>
+  <img src="https://img.shields.io/badge/Computer Vision-5F9EA0?style=for-the-badge" alt="Computer Vision"/>
 </p>
 
 ---
 
 ### 📊 My GitHub Stats
 
-[![ArnabTechiee's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArnabTechiee&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArnabTechiee&show_icons=true&theme=dracula&rank_icon=github" alt="ArnabTechiee's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnabTechiee&layout=compact&theme=dracula" alt="Top Languages" />
+</p>
 
 ---
 
 ### 📫 Let's Connect
 
-You can reach me via [**Email**](mailto:arnabmondal8976@gmail.com) or connect with me on [**LinkedIn**](https://www.linkedin.com/in/your-linkedin-username/).
+You can reach me via [**Email**](mailto:arnabmondal8976@gmail.com) or connect with me on [**LinkedIn**](https://www.linkedin.com/in/arnab-mondal-614702277/).
