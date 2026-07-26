@@ -78,13 +78,25 @@ Deployed edge computer-vision models (+14% tracking accuracy), cut inference lat
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArnabTechiee&show_icons=true&theme=dracula&rank_icon=github&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnabTechiee&layout=compact&theme=dracula" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ArnabTechiee&show_icons=true&theme=dracula&rank_icon=github&count_private=true&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnabTechiee&layout=compact&theme=dracula&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnabTechiee&theme=dracula" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com?user=ArnabTechiee&theme=dracula&hide_border=true" alt="streak stats"/>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArnabTechiee&theme=github_dark" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArnabTechiee&theme=github_dark" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArnabTechiee&theme=github_dark" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArnabTechiee&theme=github_dark" width="48%"/>
+</p>
+
+> 💡 **If any card above shows a broken image:** these run on free shared demo servers (Vercel) that get rate-limited under heavy global traffic — it's not your repo. Give it a refresh, or for a permanent fix, fork [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and/or [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards), deploy your own free instance on Vercel, and swap the URLs above to your own domain.
 
 ---
 
