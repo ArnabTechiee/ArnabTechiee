@@ -75,26 +75,16 @@ Deployed edge computer-vision models (+14% tracking accuracy), cut inference lat
 
 ---
 
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArnabTechiee&theme=dracula&no-frame=true&row=1&column=7" />
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-alpha-blush.vercel.app/api?username=ArnabTechiee&show_icons=true&theme=dracula&rank_icon=github&count_private=true&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats-alpha-blush.vercel.app/api/top-langs/?username=ArnabTechiee&layout=compact&theme=dracula&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-alpha-blush.vercel.app/api?username=ArnabTechiee&show_icons=true&theme=dracula&rank_icon=github&count_private=true&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats-alpha-blush.vercel.app/api/top-langs/?username=ArnabTechiee&layout=compact&theme=dracula&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnabTechiee&theme=react-dark&hide_border=true" width="100%"/>
 </p>
-
-> 💡 **If a card above ever fails to load:** these run on free shared demo servers that occasionally hit GitHub's API rate limit — it's not your repo, and a refresh usually fixes it within a few hours. For a guaranteed-uptime version, see the self-hosting steps below.
 
 ---
 
