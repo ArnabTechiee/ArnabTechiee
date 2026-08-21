@@ -87,16 +87,8 @@ Deployed edge computer-vision models (+14% tracking accuracy), cut inference lat
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArnabTechiee&theme=github_dark" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArnabTechiee&theme=github_dark" width="48%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnabTechiee&theme=react-dark&hide_border=true" width="100%"/>
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArnabTechiee&theme=github_dark" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArnabTechiee&theme=github_dark" width="48%"/>
-</p>
-
-> 💡 **If any card above shows a broken image:** these run on free shared demo servers (Vercel) that get rate-limited under heavy global traffic — it's not your repo. Give it a refresh, or for a permanent fix, fork [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and/or [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards), deploy your own free instance on Vercel, and swap the URLs above to your own domain.
 
 ---
 
