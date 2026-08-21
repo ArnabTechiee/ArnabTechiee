@@ -91,10 +91,6 @@ Deployed edge computer-vision models (+14% tracking accuracy), cut inference lat
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ArnabTechiee&theme=dracula&hide_border=true" alt="streak stats"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnabTechiee&theme=react-dark&hide_border=true" width="100%"/>
 </p>
 
